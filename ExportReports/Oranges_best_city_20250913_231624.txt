@@ -1,0 +1,15 @@
+
+Product: Oranges
+Quantity Available: 89
+Predicted Spread: 236.77%
+
+Estimated Profit by City:
+---------------------------------
+Atlanta      : $116.62
+Chicago      : $116.01
+Los Angeles  : $111.42
+New York     : $162.22
+
+Recommended City: New York
+Maximum Expected Profit: $162.22
+Report Generated On: 2025-09-13 23:16:24

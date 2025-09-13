@@ -1,0 +1,14 @@
+
+========== PRODUCT PRICE SPREAD PREDICTION REPORT ==========
+
+📍 City                : Atlanta
+🌾 Product             : Oranges
+📦 Quantity Requested  : 17
+
+📊 Predicted Spread    : 233.87%
+✅ Suggested Quantity  : 11
+💰 Expected Max Profit : $22.07
+❗ Loss without Model  : $-4.46
+
+🕒 Report Generated On : 2025-09-13 23:01:02
+============================================================
